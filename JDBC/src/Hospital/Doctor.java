@@ -23,6 +23,10 @@ public class Doctor {
         this.especialidad = especialidad;
     }
 
+    public Doctor() {
+    }
+    
+
     public int getDoctorNo() {
         return doctorNo;
     }

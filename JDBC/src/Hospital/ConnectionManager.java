@@ -14,7 +14,7 @@ import java.sql.SQLException;
  */
 public class ConnectionManager {
 
-    private static final String URL = "jdbc:mysql://localhost:3306/hospital";
+    private static final String URL = "jdbc:mysql://localhost:3307/hospital";
     private static final String USER = "root"; // Cambia esto si tu usuario es diferente
     private static final String PASSWORD = ""; // Cambia esto si tienes contraseña
 
