@@ -1,0 +1,11 @@
+1
+2
+3
+4
+45
+6
+4
+7
+89
+0
+Suma de números impares: 145
